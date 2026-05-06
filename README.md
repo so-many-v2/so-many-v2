@@ -4,6 +4,7 @@
 - Fintech & E-commerce
 - Building scalable payment integrations & high-load systems
 - Portfolio - [andrewproject.tech](https://andrewproject.tech)
+- Prev - [so-many-v1](https://github.com/so-many-v1/)
 
 ---
 
