@@ -1,14 +1,15 @@
-## 🚀 About Me
+## So-Many-v2 (Prev [So-Many-v1](https://github.com/so-many-v1/))
+
+---
 
 - Backend developer (Go / Python)
 - Fintech & E-commerce
 - Building scalable payment integrations & high-load systems
 - Portfolio - [andrewproject.tech](https://andrewproject.tech)
-- Prev - [so-many-v1](https://github.com/so-many-v1/)
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="left">
 
@@ -72,7 +73,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="left">
   <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=so-many-v2&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=2D7FF9&icon_color=F8D866" width="50%"/>
