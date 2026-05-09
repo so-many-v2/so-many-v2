@@ -1,4 +1,4 @@
-## So-Many-v2 (Prev [So-Many-v1](https://github.com/so-many-v1/))
+## So-Many-v2 => Prev [So-Many-v1](https://github.com/so-many-v1/)
 
 ---
 
