@@ -72,9 +72,3 @@
 </div>
 
 ---
-
-## GitHub Stats
-
-<div align="left">
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=so-many-v2&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=2D7FF9&icon_color=F8D866" width="50%"/>
-</div>
