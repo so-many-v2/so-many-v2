@@ -25,7 +25,7 @@
 ![Django](https://img.shields.io/badge/-django-1F222E?style=for-the-badge&logo=django&logoColor=44B78B)
 ![FastAPI](https://img.shields.io/badge/-fastapi-1F222E?style=for-the-badge&logo=fastapi&logoColor=00C7B7)
 ![Chi](https://img.shields.io/badge/-chi-1F222E?style=for-the-badge&logo=go&logoColor=00ADD8)
-![Express](https://img.shields.io/badge/-express-1F222E?style=for-the-badge&logo=express&logoColor=white)
+![Express](https://img.shields.io/badge/-express-1F222E?style=for-the-badge&logo=express&logoColor=5FA04E)
 ![Aiogram](https://img.shields.io/badge/-aiogram-1F222E?style=for-the-badge&logo=telegram&logoColor=26A5E4)
 ![Vue](https://img.shields.io/badge/-vue.js-1F222E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![React](https://img.shields.io/badge/-react-1F222E?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -38,7 +38,7 @@
 ![MongoDB](https://img.shields.io/badge/-mongodb-1F222E?style=for-the-badge&logo=mongodb&logoColor=47A248)
 ![SQLAlchemy](https://img.shields.io/badge/-sqlalchemy-1F222E?style=for-the-badge&logo=sqlalchemy&logoColor=white)
 ![Django ORM](https://img.shields.io/badge/-django%20orm-1F222E?style=for-the-badge&logo=django&logoColor=44B78B)
-![Prisma](https://img.shields.io/badge/-prisma-1F222E?style=for-the-badge&logo=prisma&logoColor=2D3748)
+![Prisma](https://img.shields.io/badge/-prisma-1F222E?style=for-the-badge&logo=prisma&logoColor=F527C8)
 ![GORM](https://img.shields.io/badge/-gorm-1F222E?style=for-the-badge&logo=go&logoColor=00ADD8)
 
 **Queues & Tasks**
@@ -67,7 +67,7 @@
 
 **Observability**
 
-![Sentry](https://img.shields.io/badge/-sentry-1F222E?style=for-the-badge&logo=sentry&logoColor=362D59)
+![Sentry](https://img.shields.io/badge/-sentry-1F222E?style=for-the-badge&logo=sentry&logoColor=F46800)
 ![Prometheus](https://img.shields.io/badge/-prometheus-1F222E?style=for-the-badge&logo=prometheus&logoColor=E6522C)
 ![Grafana](https://img.shields.io/badge/-grafana-1F222E?style=for-the-badge&logo=grafana&logoColor=F46800)
 
