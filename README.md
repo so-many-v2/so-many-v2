@@ -17,8 +17,8 @@
 
 ![Go](https://img.shields.io/badge/-go-1F222E?style=for-the-badge&logo=go&logoColor=00ADD8)
 ![Python](https://img.shields.io/badge/-python-1F222E?style=for-the-badge&logo=python&logoColor=F8D866)
+![Node.js](https://img.shields.io/badge/-node.js-1F222E?style=for-the-badge&logo=node.js&logoColor=5FA04E)
 ![TypeScript](https://img.shields.io/badge/-typescript-1F222E?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![Rust](https://img.shields.io/badge/-rust-1F222E?style=for-the-badge&logo=rust&logoColor=white)
 
 **Frameworks**
 
