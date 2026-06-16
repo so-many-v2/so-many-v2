@@ -5,7 +5,6 @@
 - Backend developer (Go / Python)
 - Fintech & E-commerce
 - Building scalable payment integrations & high-load systems
-- Portfolio - [andrewproject.tech](https://andrewproject.tech)
 
 ---
 
