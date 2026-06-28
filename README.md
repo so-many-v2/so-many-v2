@@ -58,7 +58,6 @@
 **Infrastructure**
 
 ![Docker](https://img.shields.io/badge/-docker-1F222E?style=for-the-badge&logo=docker&logoColor=2496ED)
-![Kubernetes](https://img.shields.io/badge/-kubernetes-1F222E?style=for-the-badge&logo=kubernetes&logoColor=326CE5)
 ![Nginx](https://img.shields.io/badge/-nginx-1F222E?style=for-the-badge&logo=nginx&logoColor=009639)
 ![CI/CD](https://img.shields.io/badge/-ci%2Fcd-1F222E?style=for-the-badge&logo=githubactions&logoColor=2088FF)
 ![AWS S3](https://img.shields.io/badge/-aws%20s3-1F222E?style=for-the-badge&logo=amazons3&logoColor=569A31)
