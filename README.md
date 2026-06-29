@@ -1,13 +1,5 @@
 # [Main](https://github.com/andrew-story/)
 
----
-
-- Backend developer (Go / Python)
-- Fintech & E-commerce
-- Building scalable payment integrations & high-load systems
-
----
-
 ## Tech Stack
 
 <div align="left">
