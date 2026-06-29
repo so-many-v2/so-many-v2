@@ -1,4 +1,4 @@
-## **So-Many-V2** => Prev [So-Many-V1](https://github.com/so-many-v1/)
+## **So-Many-V2** => [main](https://github.com/andrew-story/)
 
 ---
 
