@@ -1,4 +1,4 @@
-## **So-Many-V2** => [main](https://github.com/andrew-story/)
+[Main](https://github.com/andrew-story/)
 
 ---
 
